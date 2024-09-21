@@ -31,6 +31,3 @@ logging.basicConfig(
 
 # Nivel de severidad:
 # level=logging.INFO indica que solo se registrarán mensajes de nivel INFO o superior (INFO, WARNING, ERROR, CRITICAL).
-
-if __name__ =="__main__":
-    logging.info("Logging has started")
